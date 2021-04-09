@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: f9440e0389a924d4a9a2b80f45753006
+timeCreated: 1614072458
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - BloodScrShader: {fileID: 4800000, guid: 1a330155b6c76af4698ad22e790177b1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
